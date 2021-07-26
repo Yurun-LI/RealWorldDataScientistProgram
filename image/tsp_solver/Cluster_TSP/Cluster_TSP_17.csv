@@ -1,0 +1,16 @@
+,n_point,method,time[sec],TSP[m]
+0,98,tsp-solver,0.67457,27895
+1,1,tsp-solver,6e-05,0
+2,1,tsp-solver,1e-05,0
+3,23,tsp-solver,0.03712,30385
+4,35,tsp-solver,0.08761,23645
+5,24,tsp-solver,0.04152,15451
+6,82,tsp-solver,0.47575,20410
+7,2,tsp-solver,0.00038,23746
+8,35,tsp-solver,0.08832,22913
+9,24,tsp-solver,0.04113,19199
+10,18,tsp-solver,0.02362,25528
+12,14,tsp-solver,0.01357,10818
+14,49,tsp-solver,0.1738,25839
+15,26,tsp-solver,0.04778,24816
+Sum,432,,1.7052399999999996,270645

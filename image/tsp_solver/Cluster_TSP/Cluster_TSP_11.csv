@@ -1,0 +1,13 @@
+,n_point,method,time[sec],TSP[m]
+0,41,tsp-solver,0.12275,31224
+1,1,tsp-solver,2e-05,0
+2,1,tsp-solver,1e-05,0
+3,41,tsp-solver,0.121,53585
+4,41,tsp-solver,0.11998,32004
+5,66,tsp-solver,0.31747,46044
+6,3,tsp-solver,0.00066,55502
+7,120,tsp-solver,1.04955,38672
+8,2,tsp-solver,0.0005,36916
+9,36,tsp-solver,0.09386,24039
+10,83,tsp-solver,0.49943,24090
+Sum,435,,2.32523,342076
